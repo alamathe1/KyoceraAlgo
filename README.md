@@ -1,2 +1,2 @@
 # Kyocera Algorithms
-Kyocera Algorithm challenge
+Kyocera Web Frontend Algorithm challenge
