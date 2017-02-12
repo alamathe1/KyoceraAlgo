@@ -1,0 +1,2 @@
+# KyoceraAlgo
+Kyocera Algorithm challenge
